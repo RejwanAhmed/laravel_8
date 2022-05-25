@@ -11,5 +11,7 @@
     <h1>THis is about php {{ 15 }}</h1>
     
     <a href="{{ url('/') }}">Go to Home Page</a>
+    
+    <h1>Message 1</h1>
 </body>
 </html>
