@@ -13,5 +13,6 @@
     <a href="{{ url('/') }}">Go to Home Page</a>
     
     <h1>Message 1</h1>
+    <button>Enter</button>
 </body>
 </html>
